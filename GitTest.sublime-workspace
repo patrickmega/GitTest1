@@ -35,7 +35,7 @@
 			"file": "TestPage2.html",
 			"settings":
 			{
-				"buffer_size": 88,
+				"buffer_size": 238,
 				"line_ending": "Unix"
 			}
 		}
@@ -134,7 +134,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -162,7 +162,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -191,7 +191,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
@@ -219,7 +219,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
@@ -228,15 +228,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 88,
+						"buffer_size": 238,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								88,
-								88
+								213,
+								213
 							]
 						],
 						"settings":
@@ -247,7 +247,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
